@@ -1,3 +1,11 @@
+> [!WARNING]
+> **This repository is no longer maintained.**
+>
+> Active development has moved to **Codeverse-Website**:
+> https://github.com/TheCodeVerseHub/codeverse-website
+>
+> This repository is kept for archival purposes only and will not receive future updates.
+
 # CodeVerse Hub - Official Website (v2)
 
 Welcome to the **CodeVerse Hub v2** repository! This is the source code for the official website of CodeVerse Hub, a community-driven platform designed for developers to collaborate, learn, and build software together.
