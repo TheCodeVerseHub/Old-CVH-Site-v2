@@ -1,8 +1,8 @@
 > [!WARNING]
 > **This repository is no longer maintained.**
 >
-> Active development has moved to **Codeverse-Website**:
-> https://github.com/TheCodeVerseHub/codeverse-website
+> Active development has moved to **CodeverseHub-Website**:
+> https://github.com/TheCodeVerseHub/codeversehub-website
 >
 > This repository is kept for archival purposes only and will not receive future updates.
 
